@@ -56,7 +56,6 @@ export default function AppForm({ route, navigation }) {
 
   const styles = StyleSheet.create({
     container: {
-      flex: 1,
       backgroundColor: '#D93600',
       alignItems: 'center',
     },
@@ -67,7 +66,6 @@ export default function AppForm({ route, navigation }) {
       marginTop: 50,
     },
     inputContainer: {
-      flex: 1,
       marginTop: 30,
       width: '90%',
       padding: 20,
